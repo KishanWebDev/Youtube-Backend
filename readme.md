@@ -1,15 +1,14 @@
-# YouTube + Twitter Backend 
+# YouTube Backend 
 
 ## Introduction
 
-This is a ``YOUTUBE + TWITTER`` backend project that covers allmost the functionalities of youtube 
-and also combines the tweet functionality from twitter into it. Find more about his project in the documentaion below.
+This is a ``YOUTUBE`` backend project that covers allmost the functionalities of youtube 
+and also combines the tweet functionality from twitter into it. Find more about his project.
 
 ## Important links
 
 | Content            | Link                                                                        |
 | -------------------| ----------------------------------------------------------------------------|
-| API Documentation  | [click here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
 | Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         |
 
 ## Features
@@ -69,34 +68,5 @@ and also combines the tweet functionality from twitter into it. Find more about 
 - MongoDB
 - Cloudinary (must have an account)
 
-## Installation and Setup
 
-1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-    cd youtube-twitter
-    npm install
-    ```
-
-3. **Set up environment variables:**
-    Create a .env in root of project and fill in the required values in the .env file using .env.sample file
-
-4. **Start the server:**
-
-    ```bash
-    npm run dev
-    ```
-
-## Contributing
-
-If you wish to contribute to this project, please feel free to contribute.
-
-## License
-
-This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
