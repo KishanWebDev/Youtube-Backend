@@ -5,6 +5,6 @@ This is a <b>YOUTUBE + TWITTER</b> backend project that covers allmost the funct
 
 <h2>Features</h2>
 <h4>User Management</h4>
-Registration, login, logout, password reset
-Profile management (avatar, cover image, details)
+Registration, login, logout, password reset<br>
+Profile management (avatar, cover image, details)<br>
 Watch history tracking
